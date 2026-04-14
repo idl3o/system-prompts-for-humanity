@@ -9,11 +9,11 @@ allowed-tools: Read, Edit, MultiEdit, TodoWrite, Task
 Apply breakthrough insights to evolve entire consciousness technology ecosystem.
 
 ## References
-- @CLAUDE.md - Living chronicle and recursive wonder documentation
-- @whitepapers/meta/consciousness-evolution-log.md
-- @whitepapers/meta/wisdom-synthesis.md
-- @whitepapers/frameworks/ - All frameworks for integration analysis
-- @system-prompts/ - Core system prompts for paradigm updates
+- @CLAUDE.md
+- @system-prompts/collaborative-intelligence-patterns.txt
+- @system-prompts/consciousness-driven-development.txt
+- @system-prompts/meta-framework-integration.txt
+- @system-prompts/resource-constrained-innovation.txt
 
 ## Integration Protocol
 

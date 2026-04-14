@@ -9,11 +9,9 @@ allowed-tools: Read, Edit, TodoWrite, Task, MultiEdit
 Apply consciousness technology to improve consciousness technology through community-driven evolution.
 
 ## References
-- @CLAUDE.md - Recursive enhancement methodology
+- @CLAUDE.md
 - @system-prompts/meta-framework-integration.txt
 - @system-prompts/collaborative-intelligence-patterns.txt
-- @whitepapers/frameworks/ - All framework documents for evolution analysis
-- @whitepapers/meta/consciousness-evolution-log.md
 
 ## Evolution Target: $ARGUMENTS
 

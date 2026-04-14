@@ -9,11 +9,8 @@ allowed-tools: Read, TodoWrite, Edit, Task, WebSearch
 Scale consciousness technology from individual to community through authentic network intelligence emergence.
 
 ## References
-- @CLAUDE.md - Community cyclone and network intelligence patterns
+- @CLAUDE.md
 - @system-prompts/collaborative-intelligence-patterns.txt
-- @whitepapers/frameworks/collaborative-intelligence-patterns.md
-- @whitepapers/accessible/ - Layered accessibility documents for community sharing
-- @whitepapers/distribution/ - Viral distribution formats
 
 ## Network Activation: $ARGUMENTS
 
