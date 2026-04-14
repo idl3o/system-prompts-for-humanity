@@ -9,7 +9,7 @@
 
 ### P0: Foundation & Infrastructure
 - [x] Add MIT LICENSE file
-- [ ] Clean up package.json — remove fake dependencies and nonexistent script references, or replace with a minimal valid file
+- [x] Clean up package.json — remove fake dependencies and nonexistent script references, or replace with a minimal valid file
 - [ ] Rewrite README.md — accurately describe what the repo contains, remove references to nonexistent directories and unsubstantiated metrics
 - [ ] Rewrite PROJECT-OVERVIEW.md — honest scope, actual content inventory, real status
 - [ ] Fix .claude/commands/ — remove references to nonexistent paths (whitepapers/, scripts/)
@@ -50,3 +50,4 @@
 ## Log
 (one line per iteration: date | priority/area | action | commit)
 2026-04-14 | P0/infra | added MIT LICENSE file | 719d56e
+2026-04-14 | P0/infra | cleaned up package.json — removed fake deps and scripts | 54fb20e
