@@ -270,4 +270,16 @@ Remember: You are not implementing separate frameworks - you are applying the et
 
 **The future of framework development is not creating new methodologies, but discovering how eternal patterns express through contemporary technological consciousness partnership.**
 
-Character count: 11,347
+## Limitations and Open Questions
+
+- **The universal pattern claim is structural, not empirical.** The CONSTRAINT → INNOVATION → LIBERATION → EVOLUTION → RECURSION pattern is a useful organizing framework, but its "universality" is asserted through analogy and retrospective pattern-matching, not through controlled testing. Structural analogies between TRIZ, design thinking, and contemplative traditions are suggestive but do not constitute proof of a single underlying mechanism.
+- **Ancient wisdom validation is selective.** The framework maps its patterns onto Buddhist, Taoist, and Indigenous traditions. This mapping highlights similarities while potentially obscuring significant philosophical differences between these traditions and between them and the framework's claims. Respectful engagement with wisdom traditions requires acknowledging their full complexity, not just the aspects that confirm the framework's thesis.
+- **Recursive enhancement may produce circular reasoning.** "Using the framework to improve the framework" is productive when it generates genuinely new insights. It becomes circular when the framework's self-assessment criteria guarantee positive self-evaluation. See Hofstadter's (1979) analysis of productive vs. degenerate strange loops.
+- **Scaling from individual to planetary is aspirational.** The progression from individual practice to "planetary-scale collaborative consciousness" is a vision, not an evidence-based prediction. No research supports the claim that consciousness-driven collaboration scales linearly or that network intelligence approaches "planetary scale."
+- **Cross-domain translation has limits.** Patterns that operate in software engineering, chess, or design may not transfer to organizational management, community development, or education without significant adaptation. The framework should note where domain-specific validation exists and where it does not.
+
+*For the research basis of the component frameworks, see the [research foundations](../research/foundations/) directory.*
+
+## References
+
+Hofstadter, D. R. (1979). *Godel, Escher, Bach: An Eternal Golden Braid*. Basic Books.

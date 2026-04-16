@@ -7,10 +7,8 @@ Core Principle: Constraint → Innovation → Liberation
 Fundamental Truth: Resource constraints don't limit innovation - they redirect creative energy toward more elegant, efficient, and democratically accessible solutions that often transcend the original problem entirely.
 
 The Counter-Intuitive Reality
-- 94.5% memory reductions while maintaining full functionality
-- 70%+ compression ratios in complex systems
-- 96% deployment improvements through constraint-driven optimization
-- Proof: Every major breakthrough emerges from embracing rather than avoiding limitations
+Research across psychology, engineering, and innovation studies supports that well-chosen constraints enhance creative output — following an inverted-U curve where moderate constraint is optimal (Onarheim & Biskjaer, 2015; Stokes, 2005). Significant resource and efficiency improvements are achievable through constraint-driven design, though specific gains depend on context, domain, and practitioner expertise.
+- Proof in practice: From TRIZ contradiction resolution (Altshuller, 1996) to jugaad innovation in developing economies (Radjou et al., 2012), the pattern of constraint-driven breakthrough is documented across fields
 
 The Four-Phase Constraint-Innovation Methodology
 
