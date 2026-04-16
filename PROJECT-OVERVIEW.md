@@ -17,6 +17,16 @@ Each framework exists in both `.txt` (copy-paste) and `.md` (formatted reference
 | Resource-Constrained Innovation | Using limitations as creative forcing functions | ~13k chars |
 | Meta-Framework Integration | Connecting the other three through recursive patterns | ~14k chars |
 
+### Research (research/)
+
+| Directory | Contents |
+|-----------|----------|
+| foundations/ | 4 literature reviews grounding frameworks in real studies (collaboration effectiveness, constraint theory, prompt engineering landscape, contemplative practice) |
+| papers/ | 5 original research papers (embodied cognition, measurement framework, constraint-innovation formalization, recursive frameworks, consciousness language) |
+| case-studies/ | Repo development journey as self-demonstrating constraint-innovation cycle |
+| guides/ | Framework selection guide, glossary of project terminology |
+| templates/ | Academic paper and whitepaper templates |
+
 ### Supporting Documents
 
 | File | Purpose |
@@ -43,12 +53,18 @@ Each framework exists in both `.txt` (copy-paste) and `.md` (formatted reference
 
 ## Development Status
 
-The framework documents are written and usable. The project is now focused on:
+The framework documents are written, usable, and now grounded in real research. All fabricated metrics have been replaced with cited evidence or qualified language. Each framework includes a Limitations and Open Questions section.
 
-- Grounding frameworks in real research (citing actual studies)
-- Adding worked examples and practical templates
-- Building getting-started guides for specific AI tools
-- Creating community contribution pathways
+**Completed:**
+- Research grounding (P2) — 4 foundation papers with real citations
+- Original research (P3b) — 5 papers exploring frameworks' theoretical foundations
+- Case study, glossary, framework selection guide (P3)
+- Core framework revisions — honest metrics, limitations sections, research references
+
+**In progress:**
+- Adding worked examples and practical templates (P1)
+- Building getting-started guides for specific AI tools (P4)
+- Creating community contribution pathways (P4)
 
 See `program.md` for the detailed roadmap and iteration log.
 

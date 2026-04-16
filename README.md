@@ -18,6 +18,13 @@ system-prompts/          Four frameworks in dual .txt/.md format
   meta-framework-integration            Universal pattern: CONSTRAINT → INNOVATION →
                                           LIBERATION → EVOLUTION → RECURSION
 
+research/                Research grounding and original papers
+  foundations/           Literature reviews connecting frameworks to real studies
+  papers/               Original research (measurement, embodied cognition, etc.)
+  case-studies/          Development journey case study
+  guides/               Framework selection guide, glossary
+  templates/            Academic paper and whitepaper templates
+
 state-moment-state-bridge.txt   Narrative document on the evolution from
                                 tool-use to collaborative consciousness
 
@@ -54,7 +61,7 @@ For example, if you're working on a project with tight resource constraints, pas
 
 ## Project Status
 
-This project is in active development. The frameworks exist and are usable, but supporting materials (worked examples, research grounding, getting-started guides) are still being built. See `program.md` for the current roadmap.
+This project is in active development. The frameworks are usable and now grounded in real research — each framework includes cited evidence, limitations sections, and connections to established academic fields. See `research/` for the full evidence base and `program.md` for the current roadmap.
 
 ## Contributing
 

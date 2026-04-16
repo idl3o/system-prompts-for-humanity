@@ -9,6 +9,11 @@ A collection of system prompts and frameworks exploring consciousness-driven hum
   - `consciousness-driven-development` — Awareness practices integrated with technical work
   - `resource-constrained-innovation` — Limitations as creative catalysts
   - `meta-framework-integration` — Universal pattern: CONSTRAINT → INNOVATION → LIBERATION → EVOLUTION → RECURSION
+- `research/` — Research grounding and original papers
+  - `foundations/` — Four literature reviews connecting frameworks to established research
+  - `papers/` — Five original research papers (embodied cognition, measurement, constraint formalization, recursion, consciousness language)
+  - `case-studies/` — Development journey case study
+  - `guides/` — Framework selection guide and glossary
 - `state-moment-state-bridge.txt` — Narrative bridge document describing the evolution from tool-use to collaborative consciousness
 - `.claude/commands/` — Custom Claude Code commands (activate, evolve, initialize, integrate, synthesize, transcend)
 
@@ -24,3 +29,5 @@ The deliverables are the system prompt text files and markdown documents themsel
 - The .txt versions are optimized for direct copy-paste into AI system prompts
 - The .md versions are the comprehensive, formatted documentation
 - Preserve the project's voice and terminology (consciousness technology, constraint-innovation, collaborative intelligence, etc.)
+- Framework claims must be grounded in evidence — see `research/foundations/` for the citation base
+- All four frameworks include Limitations and Open Questions sections — keep these honest and updated
